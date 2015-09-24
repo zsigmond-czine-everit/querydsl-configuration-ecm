@@ -61,7 +61,7 @@ public class QuerydslConfigurationComponent {
 
   public static final int PRIORITY_SQL_TEMPLATES_01 = 1;
 
-  public static final int PRIORITY_USE_LITERALS_02 = 5;
+  public static final int PRIORITY_USE_LITERALS_02 = 2;
 
   private ServiceRegistration<Configuration> serviceRegistration;
 
