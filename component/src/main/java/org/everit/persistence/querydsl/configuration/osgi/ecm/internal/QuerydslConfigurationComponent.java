@@ -34,8 +34,8 @@ import org.everit.persistence.querydsl.configuration.osgi.ecm.QuerydslConfigurat
 import org.osgi.framework.Constants;
 import org.osgi.framework.ServiceRegistration;
 
-import com.querydsl.sql.Configuration;
-import com.querydsl.sql.SQLTemplates;
+import com.mysema.query.sql.Configuration;
+import com.mysema.query.sql.SQLTemplates;
 
 import aQute.bnd.annotation.headers.ProvideCapability;
 

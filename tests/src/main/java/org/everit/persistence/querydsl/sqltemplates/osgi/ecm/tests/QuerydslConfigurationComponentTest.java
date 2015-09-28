@@ -25,7 +25,7 @@ import org.everit.osgi.ecm.extender.ECMExtenderConstants;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.querydsl.sql.Configuration;
+import com.mysema.query.sql.Configuration;
 
 import aQute.bnd.annotation.headers.ProvideCapability;
 
